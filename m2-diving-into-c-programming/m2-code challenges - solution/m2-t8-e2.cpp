@@ -1,4 +1,9 @@
-#include <stdio.h>
+/*Write a program to input two integers and find the sum of those two numbers by using pointers.
+
+Define two integer variables and get user input.
+Define two pointers for each integer variable.
+Find the sum and print the result.*/
+    #include <stdio.h>
 
 
 int main() {
