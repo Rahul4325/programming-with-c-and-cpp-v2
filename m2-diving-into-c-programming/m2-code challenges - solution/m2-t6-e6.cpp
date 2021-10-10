@@ -1,3 +1,9 @@
+/*Write a program to find the number of odd numbers in the given array.
+
+The array is: int numbers[10] = {2, 98, 99, 27, 31, 53, 88, 92, 11, 12};
+Create a function that accepts an array of integer values.
+The function should find out the number of odd numbers in the array and then print the result.*/
+
 #include <stdio.h>
 
 /* Function Declaration. */
