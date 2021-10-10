@@ -1,3 +1,9 @@
+/*WAP to find the largest number in the given array using a pointer.
+
+The array is: float numbers[5] = {983, 2.9, 34, 433, 1000.567};
+Create a user-defined function that will accept the pointer as a parameter. The pointer should point to the array defined in the main function.
+Using pointer find the largest number in the user-defined function and return the largest number to the main function.*/
+
 #include <stdio.h>
 
 float findLargestNumber(float *, int);
